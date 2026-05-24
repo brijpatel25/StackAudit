@@ -155,3 +155,17 @@ Dynamic OG images would be a nice addition but deprioritized for time. The stati
 
 **Plan for tomorrow:**
 Submitted. Week 2 would focus on: dynamic OG images, PDF export, benchmark mode.
+
+## Day 2 — 2026-05-24
+**Hours worked:** 2
+**What I did:** Deployed to Vercel, fixed CI pipeline, connected GitHub repo, tested full audit flow end to end.
+**What I learned:** Vercel requires --legacy-peer-deps flag for dependency conflicts with Next.js 16.
+**Blockers:** None.
+**Plan for tomorrow:** Test on mobile, polish UI details.
+
+## Day 2 — 2026-05-24
+**Hours worked:** 3
+**What I did:** Fixed CI pipeline, deployed to Vercel, tested full audit flow.
+**What I learned:** Vercel requires --legacy-peer-deps for dependency conflicts.
+**Blockers:** ESLint version conflict.
+**Plan for tomorrow:** Mobile testing and UI polish.
