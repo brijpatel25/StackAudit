@@ -1,16 +1,11 @@
-import type { Config } from 'jest'
-
-const config: Config = {
+module.exports = {
   preset: 'ts-jest',
   testEnvironment: 'node',
   moduleNameMapper: {
-    '^@/(.*)$': '<rootDir>/$1',
+    '^@/(.*)$': '<rootDir>/\',
   },
   transform: {
     '^.+\\.tsx?$': ['ts-jest', { tsconfig: { module: 'commonjs' } }],
   },
   testMatch: ['**/__tests__/**/*.test.ts'],
-  collectCoverageFrom: ['lib/**/*.ts'],
 }
-
-export default config
