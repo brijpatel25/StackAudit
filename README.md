@@ -124,3 +124,6 @@ Deliberately avoided the "purple gradient SaaS" look. Chose a financial-document
 
 **5. In-memory rate limiting vs Upstash Redis**
 In-memory means rate limits reset on deploy and don't persist across serverless function instances. Acceptable for MVP: each function instance independently limits, so the effective limit is higher than intended but still protective. Upstash Redis ($0/10k requests) is the right week-2 upgrade once traffic warrants it.
+
+## Deployment
+Live at https://stackaudit-omega.vercel.app
