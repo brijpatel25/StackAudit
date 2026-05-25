@@ -169,3 +169,10 @@ Submitted. Week 2 would focus on: dynamic OG images, PDF export, benchmark mode.
 **What I learned:** Vercel requires --legacy-peer-deps for dependency conflicts.
 **Blockers:** ESLint version conflict.
 **Plan for tomorrow:** Mobile testing and UI polish.
+
+## Day 3 — 2026-05-25
+**Hours worked:** 2
+**What I did:** Tested full audit flow on multiple tool combinations, verified savings calculations are correct.
+**What I learned:** Cross-tool redundancy detection works well for Cursor and Copilot overlap.
+**Blockers:** None.
+**Plan for tomorrow:** Final documentation review.
