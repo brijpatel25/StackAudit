@@ -183,3 +183,10 @@ Submitted. Week 2 would focus on: dynamic OG images, PDF export, benchmark mode.
 **What I learned:** The shareable URL works correctly without exposing any PII.
 **Blockers:** None.
 **Plan for tomorrow:** Final submission.
+
+## Day 5 — 2026-05-27
+**Hours worked:** 1
+**What I did:** Final review, verified all submission requirements, submitted the project.
+**What I learned:** Building a full-stack product end to end in one week is challenging but very rewarding.
+**Blockers:** None.
+**Plan for tomorrow:** Await feedback.
